@@ -1,2 +1,1 @@
-# python-project-for-quiz
-quiz game using gui
+#Steps to run the programme
